@@ -1,0 +1,19 @@
+# API & Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+requests
+
+# Data Processing & ML
+pandas
+numpy
+scikit-learn
+xgboost
+
+# NLP Entity Extraction
+spacy
+
+# ONNX Conversion & Inference Runtime
+onnx
+onnxruntime
+skl2onnx
