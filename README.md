@@ -22,6 +22,11 @@ edgespecs-ai/
 
 ---
 
+# Dependencies & Requirements📃
+The dependencies such as ONNX and Torchvision are shown in the `requirements.txt` file. Aside from that an application that can run python programs should be included whether its a source code editor like VSC or a notebook based browser like Jupyter and Colab (though this needs a bit of code tweaking so the former is better to use even if the latter works).
+
+---
+
 ## ⚙️ Quick Setup
 
 1. **Set Up Virtual Environment & Dependencies:**
