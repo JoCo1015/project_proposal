@@ -46,6 +46,8 @@ The dependencies such as ONNX and Torchvision are shown in the `requirements.txt
 2. **Add Dataset:**
    Place `laptops.csv` inside the `datasets/` folder.
 
+   from: https://github.com/37Degrees/DataSets/blob/master/laptops.csv
+
 ---
 
 ## 🚀 How to Run (5 Steps)
