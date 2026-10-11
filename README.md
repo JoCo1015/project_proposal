@@ -25,6 +25,14 @@ edgespecs-ai/
 # Dependencies & Requirements📃
 The dependencies such as ONNX and Torchvision are shown in the `requirements.txt` file. Aside from that an application that can run python programs should be included whether its a source code editor like VSC or a notebook based browser like Jupyter and Colab (though this needs a bit of code tweaking so the former is better to use even if the latter works).
 
+* **Python Version:** `Python 3.10+` (Tested on Python 3.12)
+* **Backend API Framework:** `FastAPI` + `Uvicorn`
+* **Edge ML & Inference Engine:** `ONNX Runtime` + `skl2onnx`
+* **Machine Learning Regressor:** `Scikit-Learn` (Random Forest Regressor)
+* **Natural Language Processing (NLP):** `spaCy` (Named Entity Recognition)
+* **Data Processing & Analysis:** `Pandas`, `NumPy`
+* **Development & Client Platform:** `Ubuntu WSL` (Linux Edge Environment)
+
 ---
 
 ## ⚙️ Quick Setup
